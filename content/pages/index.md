@@ -8,7 +8,7 @@ sections:
       - label: Essai gratuit
         url: /pricing
         style: primary
-      - label: Learn More
+      - label: Découvrir +
         url: /features
         style: secondary
     image: images/about-4.jpg
