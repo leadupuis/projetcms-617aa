@@ -5,7 +5,7 @@ sections:
     title: Site internet pour CMS
     subtitle: Développer des outils de codage
     actions:
-      - label: Try Free
+      - label: Essai gratuit
         url: /pricing
         style: primary
       - label: Learn More
