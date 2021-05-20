@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Site internet pour CMS
-    subtitle: Optional hero section subtitle
+    subtitle: Développer des outils de codage
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
